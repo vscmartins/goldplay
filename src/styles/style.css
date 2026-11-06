@@ -77,7 +77,7 @@ header{
 main{
     height: 80vh;
     color: var(--color-foreground);
-    background-image: url(./src/assests/images/img-background.svg);
+    background-image: url(./src/assets/images/img-background.svg);
     background-repeat: no-repeat;
     background-color: var(--color-black);
     background-size: cover;
